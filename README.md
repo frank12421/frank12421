@@ -1,4 +1,4 @@
-# Hi, im Frank.
+# Hi, I am Frank.
 
 Finally I learn profesionell programming. I am looking forward to learning web development from the neuefische.
 
