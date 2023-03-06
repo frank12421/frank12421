@@ -11,3 +11,4 @@ Then, when I'm a professional, I sit on the beach and program for the web.
 |Work on it|99 % |
 |Done|1 % |
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=frank12421)](https://git.io/streak-stats)
