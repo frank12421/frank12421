@@ -1,6 +1,6 @@
 # Hi, im Frank.
 
-Finally I learn porfesionell programming. I am looking forward to learning web development from the neuefische.
+Finally I learn profesionell programming. I am looking forward to learning web development from the neuefische.
 
 Then, when I'm a professional, I sit on the beach and program for the web. 
 
@@ -8,6 +8,6 @@ Then, when I'm a professional, I sit on the beach and program for the web.
 
 |Today's situation|Share|
 |------|------|
-|Dream|99 % |
-|Reality|1 % |
+|Work on it|99 % |
+|Done|1 % |
 
