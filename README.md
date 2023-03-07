@@ -1,14 +1,21 @@
-# Hi, I am Frank.
+## Hi, I am Frank.
 
-Finally I learn profesionell programming. I am looking forward to learning web development from the neuefische.
+I worked as a baker for 6 years. I am a journalist and presenter - 15 years active. Together with my wife we founded our own company. The past 12 years I marketed CAD software.  
+Now I'm going to be a **web developer** - thanks __neuefische__.
 
-Then, when I'm a professional, I sit on the beach and program for the web. 
+...and other things:
+* Love to spend time with my family
+* Love to work in my small garden and have a tomato farm
+* Try to run at least 3 times a week.
+* I like to travel, by foot, by bike, by car, by boat or by plane.  
 
-![Kuba-Strand](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Karibik_250.jpg/1600px-Karibik_250.jpg)
+![Holliday Foto](https://source.unsplash.com/random/900x300/?holliday)
+
+### On the way to becoming a Web Developer
 
 |Today's situation|Share|
 |------|------|
 |Work on it|99 % |
 |Done|1 % |
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=frank12421)](https://git.io/streak-stats)
+Many thanks to all who help me with this. :heart:
