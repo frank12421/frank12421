@@ -10,13 +10,13 @@ Now I'm going to be a **web developer** - thanks __neuefische__.
 * I like to travel, by foot, by bike, by car, by boat or by plane.  
 
 ![Holliday Foto](https://source.unsplash.com/random/900x300/?holliday,mounten,beach)  
-*Bilder: https://source.unsplash.com/random/900x300/?holliday,mounten,beach*
+*Picture: https://source.unsplash.com/random/900x300/?holliday,mounten,beach*
 
 ### On the way to becoming a Web Developer
 
 |Today's situation|Share|
 |------|------|
-|Work on it|99 % |
-|Done|1 % |
+|Work on it|97 % |
+|Done|3 % |
 
 Many thanks to all who help me with this. :heart:
