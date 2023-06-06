@@ -1,22 +1,6 @@
 ## Hi, I am Frank.
 
-I worked as a baker for 6 years. I am a journalist and presenter - 15 years active. Together with my wife we founded our own company. The past 12 years I marketed CAD software.  
-Now I'm going to be a **web developer** - thanks __neuefische__.
-
-...and other things:
-* Love to spend time with my family
-* Love to work in my small garden and have a tomato farm
-* Try to run at least 3 times a week.
-* I like to travel, by foot, by bike, by car, by boat or by plane.  
-
-![Holliday Foto](https://source.unsplash.com/random/900x300/?holliday,mounten,beach)  
-*Picture: https://source.unsplash.com/random/900x300/?holliday,mounten,beach*
-
-### On the way to becoming a Web Developer
-
-|Today's situation|Share|
-|------|------|
-|Work on it|97 % |
-|Done|3 % |
-
+You have to be a bit brave and a bit crazy to finally find your way to programming after so many years in other industries. Yet software development has always been my great passion. Now it's finally becoming my profession. 
 Many thanks to all who help me with this. :heart:
+
+[![Frank's GitHub stats](https://github-readme-stats.vercel.app/api?username=frank12421&show_icons=true&theme=darcula)](https://github.com/frank12421/github-readme-stats)
